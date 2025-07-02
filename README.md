@@ -3,8 +3,7 @@
 
 This project is a comprehensive machine learning pipeline built to **predict loan defaulters** using customer banking, credit bureau, and behavioral data. Developed as part of a **State Bank of India Hackathon**, the system uses a **meta-modeling ensemble** of neural networks and LightGBM to achieve high recall while balancing precision.
 
-[📁 Dataset] Training & prediction CSVs provided as part of the hackathon  
-[🧪 Model Output] Final stacked model saved as `defaulter_blend.pkl`
+
 
 ---
 
